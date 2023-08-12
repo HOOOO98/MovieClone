@@ -6,5 +6,5 @@ export default new Store({
     email: 'loading2us@gmail.com',
     blog: 'https://0and1.tistory.com/',
     github: 'http://github.com/HOOOO98/',
-    repositoy: 'https://github.com/HOOOO98/MovieClone'
+    repository: 'https://github.com/HOOOO98/MovieClone'
 })
